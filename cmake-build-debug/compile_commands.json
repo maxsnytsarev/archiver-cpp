@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch/catch_main.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch/catch_main.cpp",
+  "output": "CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/src/CMakeFiles/archiver.dir/archiver.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/archiver.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/archiver.cpp",
+  "output": "tasks/archiver/src/CMakeFiles/archiver.dir/archiver.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/src/CMakeFiles/archiver.dir/Frequency.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/Frequency.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/Frequency.cpp",
+  "output": "tasks/archiver/src/CMakeFiles/archiver.dir/Frequency.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/src/CMakeFiles/archiver.dir/Huffman.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/Huffman.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/Huffman.cpp",
+  "output": "tasks/archiver/src/CMakeFiles/archiver.dir/Huffman.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/src/CMakeFiles/archiver.dir/reading.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/reading.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/reading.cpp",
+  "output": "tasks/archiver/src/CMakeFiles/archiver.dir/reading.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/src/CMakeFiles/archiver.dir/writing.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/writing.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/writing.cpp",
+  "output": "tasks/archiver/src/CMakeFiles/archiver.dir/writing.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/src/CMakeFiles/archiver.dir/parse.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/parse.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/parse.cpp",
+  "output": "tasks/archiver/src/CMakeFiles/archiver.dir/parse.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/tests/CMakeFiles/test_read.dir/__/src/reading.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/reading.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/reading.cpp",
+  "output": "tasks/archiver/tests/CMakeFiles/test_read.dir/__/src/reading.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/tests/CMakeFiles/test_read.dir/test_read.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests/test_read.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests/test_read.cpp",
+  "output": "tasks/archiver/tests/CMakeFiles/test_read.dir/test_read.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/tests/CMakeFiles/test_huffman.dir/__/src/Huffman.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/Huffman.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/Huffman.cpp",
+  "output": "tasks/archiver/tests/CMakeFiles/test_huffman.dir/__/src/Huffman.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/tests/CMakeFiles/test_huffman.dir/test_Huffman.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests/test_Huffman.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests/test_Huffman.cpp",
+  "output": "tasks/archiver/tests/CMakeFiles/test_huffman.dir/test_Huffman.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/tests/CMakeFiles/test_writing.dir/__/src/writing.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/writing.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/src/writing.cpp",
+  "output": "tasks/archiver/tests/CMakeFiles/test_writing.dir/__/src/writing.cpp.o"
+},
+{
+  "directory": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/util -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests -I/Users/maximsnytsarev/CLionProjects/archiver-cpp/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -fcolor-diagnostics -o tasks/archiver/tests/CMakeFiles/test_writing.dir/test_writing.cpp.o -c /Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests/test_writing.cpp",
+  "file": "/Users/maximsnytsarev/CLionProjects/archiver-cpp/tasks/archiver/tests/test_writing.cpp",
+  "output": "tasks/archiver/tests/CMakeFiles/test_writing.dir/test_writing.cpp.o"
+}
+]

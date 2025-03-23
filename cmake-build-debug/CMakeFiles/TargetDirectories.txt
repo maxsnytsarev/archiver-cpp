@@ -1,0 +1,15 @@
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/CMakeFiles/test-all.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/CMakeFiles/contrib_catch_main.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/CMakeFiles/edit_cache.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/CMakeFiles/rebuild_cache.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/src/CMakeFiles/archiver.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/src/CMakeFiles/edit_cache.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/src/CMakeFiles/rebuild_cache.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/tests/CMakeFiles/test_archiver.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/tests/CMakeFiles/test_read.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/tests/CMakeFiles/test_huffman.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/tests/CMakeFiles/test_writing.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/tests/CMakeFiles/edit_cache.dir
+/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug/tasks/archiver/tests/CMakeFiles/rebuild_cache.dir

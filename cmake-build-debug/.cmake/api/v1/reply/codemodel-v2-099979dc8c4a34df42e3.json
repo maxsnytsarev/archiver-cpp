@@ -1,0 +1,165 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "tasks/archiver",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-tasks.archiver-Debug-d0b54f306a842ee29e91.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tasks/archiver"
+				},
+				{
+					"build" : "tasks/archiver/src",
+					"jsonFile" : "directory-tasks.archiver.src-Debug-fc46fa519d2489d5ea11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "tasks/archiver/src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "tasks/archiver/tests",
+					"jsonFile" : "directory-tasks.archiver.tests-Debug-b3e46739b7a44d62b9ea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "tasks/archiver/tests",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "cpp-hse",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "archiver::@8b41681c344df524697a",
+					"jsonFile" : "target-archiver-Debug-fa1e64986b7399ea4a09.json",
+					"name" : "archiver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "contrib_catch_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-contrib_catch_main-Debug-e611bda14ae5abb0614e.json",
+					"name" : "contrib_catch_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test-all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-all-Debug-d966618d241ca83f2b1e.json",
+					"name" : "test-all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_archiver::@1dfc1349e2e801ae2f63",
+					"jsonFile" : "target-test_archiver-Debug-25523d75d5ffdaa69036.json",
+					"name" : "test_archiver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_huffman::@1dfc1349e2e801ae2f63",
+					"jsonFile" : "target-test_huffman-Debug-4e764a77af7e109bd5e7.json",
+					"name" : "test_huffman",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_read::@1dfc1349e2e801ae2f63",
+					"jsonFile" : "target-test_read-Debug-6d1a4d1b5827b5685722.json",
+					"name" : "test_read",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_writing::@1dfc1349e2e801ae2f63",
+					"jsonFile" : "target-test_writing-Debug-af2054dfa22086ed5200.json",
+					"name" : "test_writing",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/maximsnytsarev/CLionProjects/archiver-cpp/cmake-build-debug",
+		"source" : "/Users/maximsnytsarev/CLionProjects/archiver-cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

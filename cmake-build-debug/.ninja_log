@@ -1,0 +1,8 @@
+# ninja log v6
+1	607	1742750335265467448	tasks/archiver/src/CMakeFiles/archiver.dir/reading.cpp.o	c769a5cd326033d
+2	619	1742750335266208513	tasks/archiver/src/CMakeFiles/archiver.dir/parse.cpp.o	830d9161f8c5ac14
+1	649	1742750335264944668	tasks/archiver/src/CMakeFiles/archiver.dir/Frequency.cpp.o	1920b8cce5db7ba1
+2	649	1742750335266047684	tasks/archiver/src/CMakeFiles/archiver.dir/writing.cpp.o	8066aa605cbee12d
+1	744	1742750335265078707	tasks/archiver/src/CMakeFiles/archiver.dir/Huffman.cpp.o	db13aeeb7ed56891
+1	998	1742750335264669633	tasks/archiver/src/CMakeFiles/archiver.dir/archiver.cpp.o	5194587422505e3f
+998	1032	1742750336261979973	archiver	ceed3d771da342bd
